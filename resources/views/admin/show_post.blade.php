@@ -62,7 +62,7 @@
 
             <div class="alert alert-success">
 
-                <button type="button" class="close" data-bs-dismiss="alert" aria-hideen="true"> x </button>
+                <button type="button" class="close" data-dismiss="alert" aria-hideen="true"> x </button>
 
                 {{session()->get('message')}}
 
@@ -87,6 +87,8 @@
 
                 <th> Image </th>
 
+                <th> Delete </th>
+
             </tr>
 
   @foreach($post as $post)
@@ -105,6 +107,10 @@
 
                     <img class="img_deg" src="postimage/{{$post -> image}}">
 
+                </td>
+
+                <td>
+                    <a href="{{url('delete_post', $post->id)}}" class="btn btn-danger"> Delete </a>
                 </td>
             </tr>
 

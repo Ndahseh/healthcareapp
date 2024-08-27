@@ -44,7 +44,7 @@
 
             <div class="alert alert-success">
 
-                <button type="button" class="close" data-bs-dismiss="alert" aria-hideen="true"> x </button>
+                <button type="button" class="close" data-dismiss="alert" aria-hideen="true"> x </button>
 
                 {{session()->get('message')}}
 
