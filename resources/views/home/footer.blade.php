@@ -6,9 +6,9 @@
         </div>
         <div class="location_main">
             <div class="call_text"><img src="images/call-icon.png"></div>
-            <div class="call_text"><a href="#">Call +01 1234567890</a></div>
+            <div class="call_text"><a href="#">Call 07763704852</a></div>
             <div class="call_text"><img src="images/mail-icon.png"></div>
-            <div class="call_text"><a href="#">demo@gmail.com</a></div>
+            <div class="call_text"><a href="#">info@livinghopehealthcareltd.com</a></div>
         </div>
         <div class="social_icon">
             <ul>
@@ -23,7 +23,8 @@
 <!-- copyright section start -->
 <div class="copyright_section">
     <div class="container">
-        <p class="copyright_text">2020 All Rights Reserved. Design by <a href="https://html.design">Free html  Templates</a></p>
+        <p class="copyright_text">2020 All Rights Reserved. Design by <a href="#">
+                Fofungtum Ndahseh </a></p>
     </div>
 </div>
 <!-- copyright section end -->
